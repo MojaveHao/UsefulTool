@@ -8,7 +8,7 @@ def:
   - ttf:Using TTF font
   - text:What do you want to write?
   - Can:Write something on a photo
-- json_rw(filename,mode):
+- json_rw(filename,mode='r'):
   - filename:Oepn file
   - mode:How to open the file(r,w,r+,w+,rb,wb,ab,rb+,wb+,ab+)
   - Can:load a json file
