@@ -35,3 +35,11 @@ def:
 - gif_boom(myDir="renders",open_gif="bcm.gif")
   - myDir:Images will save at here.
   - open_gif:Which gif do you want to boom?
+- init_turtle(x,y,c)
+  - x,y:go to (x,y)
+  - c:set pen_color and fill_color c
+- os_star(x,y,l,c)
+  - Can:Draw a five pointed star at (x,y)
+  - long:l
+  - color:c
+  - Angle adjustment is not supported temporarily
