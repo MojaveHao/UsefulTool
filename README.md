@@ -1,4 +1,6 @@
 # UsefulTool User's Guide ![](https://img.shields.io/badge/Version-1.1.2-yellowgreen) ![](https://img.shields.io/badge/Build-58-blue) ![](https://img.shields.io/badge/Pypi-%20Uploaded-orange)   
+## Tip:
+### This Github Page will only release Preview Versions.If you want to use it for work,please use "(sudo)pip(3) install usefultools" to download it.
 ## defines:
 ### bqbzz(openimg,size=30,rotate=0,color=(0,0,0),ttf=None,text="Your Text"):
 
