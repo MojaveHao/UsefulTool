@@ -11,7 +11,7 @@
       - text:What do you want to write?
 ### json_rw(filename,mode='r'):
       - Can:load a json file
-      - filename:Oepn file
+      - filename:Open file
       - mode:How to open the file(r,w,r+,w+,rb,wb,ab,rb+,wb+,ab+)
 ### finder(lst):
       - Can:Find a number in a list
