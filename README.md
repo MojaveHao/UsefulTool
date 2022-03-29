@@ -1,4 +1,4 @@
-# UsefulTool User's Guide ![](https://img.shields.io/badge/Version-1.1.4 with hotfix 1-yellowgreen) ![](https://img.shields.io/badge/Build-114-blue) ![](https://img.shields.io/badge/Pypi-%20Uploaded-orange)
+# UsefulTool User's Guide ![](https://img.shields.io/badge/Version-1.1.4%20with%20hot%20fix%201-yellowgreen) ![](https://img.shields.io/badge/Build-114-blue) ![](https://img.shields.io/badge/Pypi-%20Uploaded-orange)
 ## defines:
 ### bqbzz(openimg,size=30,rotate=0,color=(0,0,0),ttf=None,text="Your Text"):
 
